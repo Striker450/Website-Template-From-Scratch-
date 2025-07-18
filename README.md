@@ -13,7 +13,7 @@ This project is a **responsive web page** built using **HTML5** and **CSS3**. It
 
 ## 📁 Project Structure
 
-project-root/
+Project-root/
 
 ├── fonts/
 
