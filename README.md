@@ -14,7 +14,11 @@ This project is a **responsive web page** built using **HTML5** and **CSS3**. It
 ## 📁 Project Structure
 
 project-root/
+
 ├── fonts/
+
 ├── videos/
+
 ├── myWeb.html
+
 └── icons8-menu.svg
